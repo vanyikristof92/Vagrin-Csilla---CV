@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h3 {
+  color: #2a7886;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h1 {
+  color: #2a7886;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
